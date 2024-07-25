@@ -1,0 +1,2 @@
+- install dependencies  `npm i`
+- run `npx nodemon app.js`
